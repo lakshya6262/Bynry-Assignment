@@ -1,5 +1,5 @@
 This is a React.js project created and maintained by me. Follow the steps below to download, install dependencies, and run the project locally.
-https://github.com/lakshya6262/Bynry-Assignment.git
+git clone https://github.com/lakshya6262/Bynry-Assignment.git
 npm install
 npm install axios
 npm run dev
