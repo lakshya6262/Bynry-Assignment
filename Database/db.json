@@ -1,0 +1,147 @@
+{
+  "Infoviaan": [
+    {
+      "id": "1",
+      "name": "Lakshya Prajapati",
+      "age": "27",
+      "email": "ravi260498@gmail.com",
+      "location": "Indore, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Employee",
+      "phone": "+91-9876543219",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "name": "Lakshya",
+      "email": "aadityavishwakarma9111@gmail.com",
+      "age": "2",
+      "location": "Indore, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Child",
+      "phone": "+91-9123456780",
+      "status": "Inactive"
+    },
+    {
+      "id": "4",
+      "name": "Sarvesh Namdev",
+      "email": "namdevlakshya51@gmail.com",
+      "age": "30",
+      "location": "Harda, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Employee",
+      "phone": "+91-9812345678",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "name": "Raghu ",
+      "email": "rajbundela931@gmail.com",
+      "age": "60",
+      "location": "Indore, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Retired",
+      "phone": "+91-9090909090",
+      "status": "Inactive"
+    },
+    {
+      "id": "7",
+      "name": "Aarav Mehta",
+      "email": "aarav.mehta@email.com",
+      "age": "28",
+      "location": "Bhopal, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Employee",
+      "phone": "+91-9988776655",
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "name": "Nisha Verma",
+      "email": "nisha.verma@email.com",
+      "age": "24",
+      "location": "Gwalior, Madhya Pradesh, India",
+      "gender": "Female",
+      "classification": "Intern",
+      "phone": "+91-9876567890",
+      "status": "Active"
+    },
+    {
+      "id": "9",
+      "name": "Rohan Singh",
+      "email": "rohan.singh@email.com",
+      "age": "35",
+      "location": "Jabalpur, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Manager",
+      "phone": "+91-9001122334",
+      "status": "Active"
+    },
+    {
+      "id": "10",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@email.com",
+      "age": "31",
+      "location": "Ujjain, Madhya Pradesh, India",
+      "gender": "Female",
+      "classification": "Employee",
+      "phone": "+91-9321654789",
+      "status": "Inactive"
+    },
+    {
+      "id": "11",
+      "name": "Vikas Yadav",
+      "email": "vikas.yadav@email.com",
+      "age": "29",
+      "location": "Sagar, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Team Lead",
+      "phone": "+91-9871234567",
+      "status": "Active"
+    },
+    {
+      "id": "12",
+      "name": "Meena Joshi",
+      "email": "meena.joshi@email.com",
+      "age": "33",
+      "location": "Rewa, Madhya Pradesh, India",
+      "gender": "Female",
+      "classification": "HR",
+      "phone": "+91-9888877766",
+      "status": "Active"
+    },
+    {
+      "id": "13",
+      "name": "Rahul Jain",
+      "email": "rahul.jain@email.com",
+      "age": "26",
+      "location": "Ratlam, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Engineer",
+      "phone": "+91-9811992233",
+      "status": "Active"
+    },
+    {
+      "id": "14",
+      "name": "Sneha Dubey",
+      "email": "sneha.dubey@email.com",
+      "age": "22",
+      "location": "Dewas, Madhya Pradesh, India",
+      "gender": "Female",
+      "classification": "Intern",
+      "phone": "+91-9321321321",
+      "status": "Inactive"
+    },
+    {
+      "id": "21",
+      "name": "lakshya namdev shimpi",
+      "email": "rajbundela931@gmail.com",
+      "age": "21",
+      "location": "Indore, Madhya Pradesh, India",
+      "gender": "Male",
+      "classification": "Retired",
+      "phone": "+91-9090909090",
+      "status": "Inactive"
+    }
+  ]
+}
